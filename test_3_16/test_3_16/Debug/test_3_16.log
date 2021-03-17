@@ -1,0 +1,4 @@
+﻿  test.c
+E:\代码\VS\test_3_16\test_3_16\test.c(82,19): warning C4047: “函数”:“int *”与“int [4][4]”的间接级别不同
+E:\代码\VS\test_3_16\test_3_16\test.c(82,16): warning C4024: “Find3”: 形参和实参 1 的类型不同
+  test_3_16.vcxproj -> E:\代码\VS\test_3_16\Debug\test_3_16.exe
